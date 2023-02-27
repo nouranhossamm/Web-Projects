@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#back{
+    background-image: url(./images/photo_2021-05-16_11-53-02.jpg);
+}
+#part1 ul li{
+    display: inline-block;
+}
+#part1 ul li a{
+    text-decoration: none;
+    color: #fff;
+    margin-left: 20px;
+}
+#part2{
+    width: 100%;
+    height: 40vh;
+    background-image: url(./images/photo_2021-05-16_11-53-04.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+h3{
+    color: #fff;
+}
+.product{
+    margin: 20px;
+}
+.product img{
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+}
